@@ -1,0 +1,15 @@
+/Users/aryanbagheri/Docs/cSharp/cSharp9/obj/Debug/net7.0/cSharp9.csproj.AssemblyReference.cache
+/Users/aryanbagheri/Docs/cSharp/cSharp9/obj/Debug/net7.0/cSharp9.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aryanbagheri/Docs/cSharp/cSharp9/obj/Debug/net7.0/cSharp9.AssemblyInfoInputs.cache
+/Users/aryanbagheri/Docs/cSharp/cSharp9/obj/Debug/net7.0/cSharp9.AssemblyInfo.cs
+/Users/aryanbagheri/Docs/cSharp/cSharp9/obj/Debug/net7.0/cSharp9.csproj.CoreCompileInputs.cache
+/Users/aryanbagheri/Docs/cSharp/cSharp9/bin/Debug/net7.0/cSharp9
+/Users/aryanbagheri/Docs/cSharp/cSharp9/bin/Debug/net7.0/cSharp9.deps.json
+/Users/aryanbagheri/Docs/cSharp/cSharp9/bin/Debug/net7.0/cSharp9.runtimeconfig.json
+/Users/aryanbagheri/Docs/cSharp/cSharp9/bin/Debug/net7.0/cSharp9.dll
+/Users/aryanbagheri/Docs/cSharp/cSharp9/bin/Debug/net7.0/cSharp9.pdb
+/Users/aryanbagheri/Docs/cSharp/cSharp9/obj/Debug/net7.0/cSharp9.dll
+/Users/aryanbagheri/Docs/cSharp/cSharp9/obj/Debug/net7.0/refint/cSharp9.dll
+/Users/aryanbagheri/Docs/cSharp/cSharp9/obj/Debug/net7.0/cSharp9.pdb
+/Users/aryanbagheri/Docs/cSharp/cSharp9/obj/Debug/net7.0/cSharp9.genruntimeconfig.cache
+/Users/aryanbagheri/Docs/cSharp/cSharp9/obj/Debug/net7.0/ref/cSharp9.dll

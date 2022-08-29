@@ -1,0 +1,5 @@
+/Users/aryanbagheri/Docs/cSharp/cSharp9/obj/Debug/net7.0/cSharp9.csproj.AssemblyReference.cache
+/Users/aryanbagheri/Docs/cSharp/cSharp9/obj/Debug/net7.0/cSharp9.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aryanbagheri/Docs/cSharp/cSharp9/obj/Debug/net7.0/cSharp9.AssemblyInfoInputs.cache
+/Users/aryanbagheri/Docs/cSharp/cSharp9/obj/Debug/net7.0/cSharp9.AssemblyInfo.cs
+/Users/aryanbagheri/Docs/cSharp/cSharp9/obj/Debug/net7.0/cSharp9.csproj.CoreCompileInputs.cache
